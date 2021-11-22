@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "831404660463",
+    "firebase_url": "https://notedb-705d5-default-rtdb.firebaseio.com",
+    "project_id": "notedb-705d5",
+    "storage_bucket": "notedb-705d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831404660463:android:4fae41c1caaf1c02626d1a",
+        "android_client_info": {
+          "package_name": "com.example.bazarku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831404660463-p9n5r0kae69o7la3fjsb1nafo9epusl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAANP1rN4dkhaPD1tTT92rhy09Dq6WocNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831404660463-p9n5r0kae69o7la3fjsb1nafo9epusl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
